@@ -1,4 +1,5 @@
-<center><h2>js断点调试<h2></center>
+
+<center><h2>js断点调试</h2></center>
    
 步骤：
      按F12 -> source -> 点击行号(设置断点) -> 按F5刷新页面
@@ -31,7 +32,7 @@
 接下来看看 <b>Step out of current function</b>(跳出当前函数):
 如下面所示：
 ![](./images/3.gif "Step out of current function")
-<center>图4</center>           
+         <center>图4</center>           
 
 ####多个断点的情况
 
