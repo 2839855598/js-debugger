@@ -1,4 +1,4 @@
-                                           <center><h2>js断点调试</h2></center>
+   <center>js断点调试</center>
 步骤：
      按F12 -> source -> 点击行号(设置断点) -> 按F5刷新页面
 
@@ -21,7 +21,9 @@
 由图一开始，点击 ![](./images/bg_2.png "Step over next function call") ，结果如图2所示：
 ![](./images/1.gif "Step over next function call")
 <center>图2</center>
+
 点击 ![](./images/bg_3.png "Step into next function call") 执行结果如图3：
+
 ![](./images/2.gif "Step into next function call")
 <center>图3</center>
 
