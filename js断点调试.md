@@ -1,4 +1,4 @@
-< center><h2>js断点调试</h2> < /center>
+<center><h2>js断点调试</h2> </center>
 步骤：
      按F12 -> source -> 点击行号(设置断点) -> 按F5刷新页面
 
