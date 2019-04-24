@@ -40,7 +40,8 @@
  如果还不明白，看下图：  
 
  ![](./images/4.gif "Pause/Resume script execution")
-<center>图5</center><br/>
+<center>图5</center>
+
 先分析到这，蓝色部分箭头以后再讲。
 
 <b>总结：</b>
