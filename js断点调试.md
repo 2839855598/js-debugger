@@ -30,7 +30,8 @@
 
 
 接下来看看 <b>Step out of current function</b>(跳出当前函数):
-如下面所示：
+如下面所示：  
+
 ![](./images/3.gif "Step out of current function")
       
 
