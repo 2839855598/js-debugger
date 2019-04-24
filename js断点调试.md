@@ -1,5 +1,5 @@
 
-<h2>js断点调试</h2>
+<h2 style="text-aglin: center">js断点调试</h2>
    
 步骤：
      按F12 -> source -> 点击行号(设置断点) -> 按F5刷新页面
