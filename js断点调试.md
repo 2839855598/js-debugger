@@ -1,5 +1,5 @@
 
-<h2 style="text-aglin: center">js断点调试</h2>
+<h2>js断点调试</h2>
    
 步骤：
      按F12 -> source -> 点击行号(设置断点) -> 按F5刷新页面
@@ -34,7 +34,7 @@
 ![](./images/3.gif "Step out of current function")
          <center>图4</center>           
 
-####多个断点的情况
+#### 多个断点的情况
 
  刚才情况还没有演示 ![](./images/bg_1.png "Pause/Resume script execution") 作用，用于多个断点之间的跳转，就是执行到下一个断点。如果当前已经是最后一个断点，再次点击将会结束。而 ![](./images/bg_2.png "Step over next function call") 跟 ![](./images/bg_3.png "Step into next function call") 都是执行到下一行。
  如果还不明白，看下图：
