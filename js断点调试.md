@@ -1,4 +1,4 @@
-<center><h2>js断点调试</h2> </center>
+                                           <center><h2>js断点调试</h2></center>
 步骤：
      按F12 -> source -> 点击行号(设置断点) -> 按F5刷新页面
 
@@ -18,7 +18,7 @@
 其实Step over next function call 与 Step into next function call 差不多，都是执行下一行，<b>区别在于</b>：
 <b>如果遇到函数，后者会进入函数内，前者会忽略这个函数，执行下一行。</b>
 
-由图一开始，点击![](./images/bg_2.png "Step over next function call") ，结果如图2所示：
+由图一开始，点击 ![](./images/bg_2.png "Step over next function call") ，结果如图2所示：
 ![](./images/1.gif "Step over next function call")
 <center>图2</center>
 点击 ![](./images/bg_3.png "Step into next function call") 执行结果如图3：
